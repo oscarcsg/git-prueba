@@ -1,0 +1,46 @@
+# Encabezado h1
+## Encabezado h2
+### Encabezado h3
+#### Encabezado h4
+
+Esto es una linea normal
+
+y hago un salto de linea con dos espacios blancos
+
+*Soy un texto en cursiva*
+_Soy otro texto en cursiva_
+
+**Texto en negrita**
+__Otro texto en negrita__
+
+***Soy un texto en negrita y cursiva***
+**_Soy otro texto en negrita y cursiva_**
+
+[Esto es un enlace a Google](https://google.com)
+
+![Imagenes](./content/imagen.jpg)
+
+> Soy una cita
+
+> Soy otra cita
+>
+> pero multilinea
+
+1. Primer elemento
+2. Segundo elemento
+3. Elemento
+
+* Primer elemento
+* Segundo elemento
+* Tecer elemento
+
+```java
+int num1 = 123;
+
+if (num1 > 18) return "Mayor de edad";
+```
+
+## Como usar simbolos
+5 \+ 2 es igual a 7
+
+5 \* 2 es igual a 10
